@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|c:\\users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|solutionrelative:controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|c:\\users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\models\\bowlerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|solutionrelative:models\\bowlerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|c:\\users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\models\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|solutionrelative:models\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|c:\\users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|solutionrelative:models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|c:\\users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\models\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|solutionrelative:models\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|c:\\users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|c:\\users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8F2A605-796D-4D7C-A635-AB9AD3DB7783}|mission10_bowling.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlerTeam.cs",
+              "DocumentMoniker": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Models\\BowlerTeam.cs",
+              "RelativeDocumentMoniker": "Models\\BowlerTeam.cs",
+              "ToolTip": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Models\\BowlerTeam.cs",
+              "RelativeToolTip": "Models\\BowlerTeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:06:39.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BowlingLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Models\\BowlingLeagueContext.cs",
+              "RelativeDocumentMoniker": "Models\\BowlingLeagueContext.cs",
+              "ToolTip": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Models\\BowlingLeagueContext.cs",
+              "RelativeToolTip": "Models\\BowlingLeagueContext.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAuwLMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:19:25.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:44:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Models\\EFBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EFBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Models\\EFBowlerRepository.cs",
+              "RelativeToolTip": "Models\\EFBowlerRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:39:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlingLeagueController.cs",
+              "DocumentMoniker": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Controllers\\BowlingLeagueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlingLeagueController.cs",
+              "ToolTip": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Controllers\\BowlingLeagueController.cs",
+              "RelativeToolTip": "Controllers\\BowlingLeagueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:36:04.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Models\\IBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\Models\\IBowlerRepository.cs",
+              "RelativeToolTip": "Models\\IBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:23:39.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\cbelg\\source\\repos\\mission10_belgique\\backend\\mission10_bowling\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T18:13:01.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
